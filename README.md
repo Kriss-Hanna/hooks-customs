@@ -1,8 +1,6 @@
-# React + Vite
+J'ai codé des custom hooks que je pourrai réutiliser dans de futurs projets : 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+useLocalStorage: Gérer les données dans le stockage local.
+useInput: Gérer les champs d'input.
+useToggle: Pour implémenter plus facilement un toggle qui basculera entre 2 états.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
