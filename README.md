@@ -1,6 +1,41 @@
-J'ai codé des custom hooks que je pourrai réutiliser dans de futurs projets : 
+# Projet Custom Hooks
 
-useLocalStorage: Gérer les données dans le stockage local.
-useInput: Gérer les champs d'input.
-useToggle: Pour implémenter plus facilement un toggle qui basculera entre 2 états.
+Ce projet contient une collection de custom hooks que je pourrai réutiliser dans de futurs projets.
 
+## Hooks disponibles
+
+### `useLocalStorage`
+
+Ce hook permet de gérer les données dans le stockage local.
+
+### `useInput`
+
+Ce hook est conçu pour gérer les champs d'input.
+
+### `useToggle`
+
+`useToggle` facilite l'implémentation d'un toggle qui basculera entre deux états.
+
+### `useFetch`
+
+Utilisez ce hook pour exécuter des appels API.
+
+### `useOnClickOutside`
+
+Ce hook détecte des clics en dehors d'un élément.
+
+### `useDebounce`
+
+`useDebounce` diffère la mise à jour d'une valeur.
+
+### `useInterval`
+
+Ce hook est utile pour gérer des intervalles.
+
+### `usePrevious`
+
+`usePrevious` permet d'obtenir la valeur précédente d'une variable d'état.
+
+## Conclusion
+
+Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
