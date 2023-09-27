@@ -40,6 +40,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useTimeout` permet de mettre en place un timeout.
 
+### `useCounter`
+
+`useCounter` crée un compteur à incrémenter ou décrémenter.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
