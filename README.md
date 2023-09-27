@@ -36,6 +36,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `usePrevious` permet d'obtenir la valeur précédente d'une variable d'état.
 
+### `useTimeout`
+
+`useTimeout` permet de mettre en place un timeout.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
