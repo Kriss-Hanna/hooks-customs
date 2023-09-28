@@ -44,6 +44,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useCounter` crée un compteur à incrémenter ou décrémenter.
 
+### `useClipboard`
+
+`useClipboard` Permet de gérer le presse papier de l'user.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
