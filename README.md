@@ -48,6 +48,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useClipboard` Permet de gérer le presse papier de l'user.
 
+### `useWindowDimensions`
+
+`useWindowDimensions` Permet d'obtenir les dimension de la fenêtre.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
