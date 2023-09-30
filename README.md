@@ -60,6 +60,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useScrollPosition` Permet d'obtenir la position du scroll.
 
+### `useMediaQuery`
+
+`useMediaQuery` Permet de réagir aux changaments de media query.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
