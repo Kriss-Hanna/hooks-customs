@@ -64,6 +64,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useMediaQuery` Permet de réagir aux changaments de media query.
 
+### `useMousePosition`
+
+`useMousePosition` Permet de suivre la position de la souris.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
