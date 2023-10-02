@@ -76,6 +76,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `usePromise` Va permettre de gérer les promesses (par exemple la récupération de datas depuis une API).
 
+### `useScript`
+
+`useScript` Permet de charger et utiliser un script externe au projet.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
