@@ -72,6 +72,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useArray` Permet de gérer un tableau avec deux fonctions qui vont permettre de le manipuler pour push et remove des éléments.
 
+### `usePromise`
+
+`usePromise` Va permettre de gérer les promesses (par exemple la récupération de datas depuis une API).
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
