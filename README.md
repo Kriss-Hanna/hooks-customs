@@ -80,6 +80,14 @@ Ce hook est utile pour gérer des intervalles.
 
 `useScript` Permet de charger et utiliser un script externe au projet.
 
+### `useQueryParam`
+
+`useQueryParam` Permet de manipuler et utiliser les parametres URL.
+
+### `useWhyDidYouUpdate`
+
+`useWhyDidYouUpdate` Permet de voir quelles props ont changé entre les rendus, facilite le débogage.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
