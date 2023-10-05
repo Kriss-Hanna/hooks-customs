@@ -88,6 +88,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useWhyDidYouUpdate` Permet de voir quelles props ont changé entre les rendus, facilite le débogage.
 
+### `useHover`
+
+`useHover` Permet de détecter le survol d'un élément précis.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
