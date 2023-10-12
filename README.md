@@ -96,6 +96,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useGeoLocation` Obtient la géolocalisation de l'utilisateur.
 
+### `useForceUpdate`
+
+`useForceUpdate` Permet de forcer une mise à jour du composant.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
