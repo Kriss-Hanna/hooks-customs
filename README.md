@@ -108,6 +108,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useMeasure` Permet de mesurer les dimensions d'un élément du DOM.
 
+### `useNetworkStatus`
+
+`useNetworkStatus` Permet de vérifier la connexion de mon utilisateur, permettra de gérer un comportement différement si sa connexion est perdue.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
