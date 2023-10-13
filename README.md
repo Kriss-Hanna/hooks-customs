@@ -104,6 +104,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useDarkMode` Permet de gérer le darkmode.
 
+### `useMeasure`
+
+`useMeasure` Permet de mesurer les dimensions d'un élément du DOM.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
