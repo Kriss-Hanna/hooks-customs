@@ -112,6 +112,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useNetworkStatus` Permet de vérifier la connexion de mon utilisateur, permettra de gérer un comportement différement si sa connexion est perdue.
 
+### `useKey`
+
+`useKey` Permet de gérer les évènements au clavier.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
