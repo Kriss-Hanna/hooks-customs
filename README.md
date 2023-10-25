@@ -120,6 +120,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useAudio` Permet de gérer la lecture audio.
 
+### `usePageVisibility`
+
+`usePageVisibility` Permet de savoir si la page est visible à l'écran, peut servir pour mettre une vidéo en pose par exemple.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
