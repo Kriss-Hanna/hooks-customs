@@ -128,6 +128,10 @@ Ce hook est utile pour gérer des intervalles.
 
 `useWebSocket` Permet de gérer des connexions WebSocket (par exemple une application de messagerie).
 
+### `useInfiniteScroll`
+
+`useInfiniteScroll` Permet d'implémenter facilement un scroll infini.
+
 ## Conclusion
 
 Ces custom hooks sont conçus pour être réutilisés dans différents projets et pour faciliter le développement. N'hésitez pas à les utiliser et à contribuer pour améliorer leur fonctionnalité !
