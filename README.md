@@ -1,6 +1,7 @@
 # Projet Custom Hooks
 
 Ce projet contient une collection de custom hooks que je pourrai réutiliser dans de futurs projets.
+Le dossier Hook contient les customs hooks et le dossier components permet de les voir en action.
 
 ## Hooks disponibles
 
