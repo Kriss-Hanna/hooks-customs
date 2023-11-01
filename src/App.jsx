@@ -1,11 +1,11 @@
-import UseInfiniteScroll from "./components/useInfiniteScroll";
+import UseArrayComponent from "./components/useArrayComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseInfiniteScroll />
+      <UseArrayComponent />
     </>
   );
 }
