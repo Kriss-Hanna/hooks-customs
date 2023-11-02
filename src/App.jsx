@@ -1,11 +1,11 @@
-import UseArrayComponent from "./components/useArrayComponent";
+import UseAudioComponent from "./components/UseAudioComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseArrayComponent />
+      <UseAudioComponent />
     </>
   );
 }
