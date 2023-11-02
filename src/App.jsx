@@ -1,11 +1,11 @@
-import UseAudioComponent from "./components/UseAudioComponent";
+import UseClipboardComponent from "./components/UseClipboardComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseAudioComponent />
+      <UseClipboardComponent />
     </>
   );
 }
