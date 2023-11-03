@@ -1,11 +1,11 @@
-import UseClipboardComponent from "./components/UseClipboardComponent";
+import UseCounterComponent from "./components/UseCounterComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseClipboardComponent />
+      <UseCounterComponent />
     </>
   );
 }
