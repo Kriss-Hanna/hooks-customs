@@ -1,11 +1,11 @@
-import UseCounterComponent from "./components/UseCounterComponent";
+import UseDarkModeComponent from "./components/UseDarkModeComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseCounterComponent />
+      <UseDarkModeComponent />
     </>
   );
 }
