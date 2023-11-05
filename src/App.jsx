@@ -1,11 +1,11 @@
-import UseDebounceComponent from "./components/UseDebounceComponent";
+import UseFetchComponent from "./components/UseFetchComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseDebounceComponent />
+      <UseFetchComponent url="https://dog.ceo/api/breeds/image/random" />
     </>
   );
 }
