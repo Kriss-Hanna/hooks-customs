@@ -1,11 +1,11 @@
-import UseDarkModeComponent from "./components/UseDarkModeComponent";
+import UseDebounceComponent from "./components/UseDebounceComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseDarkModeComponent />
+      <UseDebounceComponent />
     </>
   );
 }
