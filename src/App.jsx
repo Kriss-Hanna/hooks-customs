@@ -1,11 +1,11 @@
-import UseFetchComponent from "./components/UseFetchComponent";
+import UseForceUpdateComponent from "./components/UseForceUpdateComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseFetchComponent url="https://dog.ceo/api/breeds/image/random" />
+      <UseForceUpdateComponent />
     </>
   );
 }
