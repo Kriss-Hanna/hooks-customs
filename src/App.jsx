@@ -1,11 +1,11 @@
-import UseForceUpdateComponent from "./components/UseForceUpdateComponent";
+import UseFormComponent from "./components/UseFormComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseForceUpdateComponent />
+      <UseFormComponent />
     </>
   );
 }
