@@ -1,11 +1,11 @@
-import UseGeoLocationComponent from "./components/UseGeolocationComponent";
+import UseHoverComponent from "./components/UseHoverComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseGeoLocationComponent />
+      <UseHoverComponent />
     </>
   );
 }
