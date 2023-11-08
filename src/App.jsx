@@ -1,11 +1,11 @@
-import UseHoverComponent from "./components/UseHoverComponent";
+import UseInputComponent from "./components/UseInputComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseHoverComponent />
+      <UseInputComponent /> 
     </>
   );
 }
