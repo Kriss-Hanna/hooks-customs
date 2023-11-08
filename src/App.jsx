@@ -1,11 +1,11 @@
-import UseInputComponent from "./components/UseInputComponent";
+import UseIntervalComponent from "./components/UseIntervalComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseInputComponent /> 
+      <UseIntervalComponent /> 
     </>
   );
 }
