@@ -1,11 +1,12 @@
-import UseLocalStorageComponent from "./components/UseLocalStorageComponent";
+import UseMeasureComponent from "./components/UseMeasureComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseLocalStorageComponent />
+      <UseMeasureComponent />
+  
     </>
   );
 }
