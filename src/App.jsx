@@ -1,12 +1,11 @@
-import UseMeasureComponent from "./components/UseMeasureComponent";
+import UseMediaQueryComponent from "./components/UseMediaQueryComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseMeasureComponent />
-  
+      <UseMediaQueryComponent />  
     </>
   );
 }
