@@ -1,11 +1,11 @@
-import UseMediaQueryComponent from "./components/UseMediaQueryComponent";
+import UseMousePositionComponent from "./components/UseMousePositionComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseMediaQueryComponent />  
+      <UseMousePositionComponent />  
     </>
   );
 }
