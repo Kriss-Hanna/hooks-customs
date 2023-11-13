@@ -1,11 +1,11 @@
-import UseMousePositionComponent from "./components/UseMousePositionComponent";
+import UseNetworkStatusComponent from "./components/UseNetworkStatusComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseMousePositionComponent />  
+      <UseNetworkStatusComponent />  
     </>
   );
 }
