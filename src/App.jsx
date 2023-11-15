@@ -1,11 +1,11 @@
-import UseOnClickOutside from "./components/UseOnClickOutside";
+import UsePageVisibilityComponent from "./components/UsePageVisibilityComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UseOnClickOutside />  
+      <UsePageVisibilityComponent />  
     </>
   );
 }
