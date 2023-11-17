@@ -1,11 +1,11 @@
-import UsePageVisibilityComponent from "./components/UsePageVisibilityComponent";
+import UsePreviousComponent from "./components/UsePreviousComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UsePageVisibilityComponent />  
+      <UsePreviousComponent />  
     </>
   );
 }
