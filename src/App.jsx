@@ -1,11 +1,11 @@
-import UsePreviousComponent from "./components/UsePreviousComponent";
+import UsePromiseComponent from "./components/UsePromiseComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UsePreviousComponent />  
+      <UsePromiseComponent />
     </>
   );
 }

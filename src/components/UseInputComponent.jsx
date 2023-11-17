@@ -1,8 +1,7 @@
-
-import useInput from '../hooks/useInput';
+import useInput from "../hooks/useInput";
 
 function UseInputComponent() {
-  const { value, bind } = useInput('');
+  const { value, bind } = useInput("");
 
   return (
     <div>

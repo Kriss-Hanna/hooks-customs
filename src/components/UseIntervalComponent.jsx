@@ -1,13 +1,13 @@
-import { useState } from 'react';
-import useInterval from '../hooks/useInterval';
+import { useState } from "react";
+import useInterval from "../hooks/useInterval";
 
 function UseIntervalComponent() {
   const [count, setCount] = useState(0);
 
   useInterval(() => {
-   console.log("Test")
-    setCount(currentCount => currentCount + 1);
-  }, 1000); 
+    console.log("Test");
+    setCount((currentCount) => currentCount + 1);
+  }, 1000);
 
   return (
     <div>

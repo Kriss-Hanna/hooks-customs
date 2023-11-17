@@ -5,7 +5,7 @@ function useWhyDidYouUpdate(name, props) {
   useEffect(() => {
     if (previousProps.current) {
       const changedProps = Object.keys(props).filter(
-        (key) => previousProps.current[key] !== props[key]
+        (key) => previousProps.current[key] !== props[key],
       );
       if (changedProps.length > 0) {
         console.log(name, "changed props:", changedProps);

@@ -4,7 +4,7 @@ import useInfiniteScroll from "../hooks/useInfiniteScroll";
 function UseInifiniteScroll() {
   // Initialiser avec 20 éléments
   const [items, setItems] = useState(
-    Array.from({ length: 20 }, (_, i) => i + 1)
+    Array.from({ length: 20 }, (_, i) => i + 1),
   );
 
   // Pour simuler si plus de données sont disponibles

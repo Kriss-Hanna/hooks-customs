@@ -12,7 +12,7 @@ function useInfiniteScroll(callback) {
       });
       if (node) observer.current.observe(node);
     },
-    [callback]
+    [callback],
   );
   return lastElementRef;
 }
