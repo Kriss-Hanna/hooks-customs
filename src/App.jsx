@@ -1,11 +1,11 @@
-import UsePromiseComponent from "./components/UsePromiseComponent";
+import UseQueryParamComponent from "./components/UseQueryParamComponent";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <UsePromiseComponent />
+      <UseQueryParamComponent />
     </>
   );
 }
